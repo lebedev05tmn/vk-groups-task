@@ -1,0 +1,13 @@
+.friends-list {
+  position: absolute;
+  right: 5%;
+  top: 60%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: rgb(41, 41, 41);
+  border: 1px solid rgb(54, 55, 56);
+  padding: 10px;
+  color: rgb(225, 227, 230);
+}
